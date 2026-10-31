@@ -15,5 +15,5 @@ public class main extends OpMode {
     public void loop(){
         sasiu.mutautilajul(gamepad1);
         echercompas.misca(gamepad1);
+        }
     }
-}
